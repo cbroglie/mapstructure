@@ -1,5 +1,7 @@
 This fork exists because of https://github.com/mitchellh/mapstructure/pull/25
 
+[![Build Status](https://api.travis-ci.org/CountFenring/mapstructure.svg)](https://travis-ci.org/CountFenring/mapstructure)
+
 # mapstructure
 
 mapstructure is a Go library for decoding generic map values to structures
