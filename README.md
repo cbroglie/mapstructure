@@ -1,3 +1,5 @@
+This fork exists because of https://github.com/mitchellh/mapstructure/pull/25
+
 # mapstructure
 
 mapstructure is a Go library for decoding generic map values to structures
