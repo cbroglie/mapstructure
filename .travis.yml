@@ -1,7 +1,11 @@
-language: go 
+language: go
+
+arch:
+  - amd64
+  - ppc64le
 
 go: 
-  - 1.4
+  - 1.15.x
   
 script:
   - go test 
